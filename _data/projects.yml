@@ -1,7 +1,7 @@
 - layout: top-middle
   name: Molecular dynamics of HIV glycoprotein gp120
   github: liyigerry/gp120
-  description:
+  description: |
     (1) Yi Li, Lei Deng, Jing Liang, Guang-Heng Dong, Yuan-Ling Xia, Yun-Xin Fu*, and Shu-Qun Liu*. Molecular dynamics simulations reveal distinct differences in conformational dynamics and thermodynamics between the unliganded and CD4-bound states of HIV-1 gp120. 2020. Physical Chemistry Chemical Physics.
 
     （SCI，2019IF: 3.567，中科院JCR二区，Top期刊）
