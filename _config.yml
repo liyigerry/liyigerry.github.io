@@ -12,7 +12,7 @@ website: https://liyigerry.github.io
 about_title: 基本信息 About Me
 about_profile_image: images/profile.jpg
 about_content: |
-  在 大理大学 任教、开展研究
+  在 <mark>大理大学</mark> 任教、开展研究
 
   Researcher and Teacher in Dali University
 
@@ -20,12 +20,21 @@ about_content: |
 
   Foucus on biological intelligent computing and engineering
 
-  欢迎关注：玉局峰讲习社
+  招收 <mark>硕士研究生</mark> 方向
+
+  1.机器学习在生物学的应用
+
+  2.生物实验相关的电子设计
+
+  欢迎关注微信公众号：玉局峰讲习社
 
   Welcome to visit our lab
 
 # Projects Section
 projects_title: 项目 Projects
+
+# Experience Section
+experience_title: 文章 Publish
 
 # Footer
 footer_show_references: false
