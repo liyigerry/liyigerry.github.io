@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "李毅课题组 Yi Li Lab"
+title                    : "李毅课题组 Yi Li's Lab"
 title_separator          : "-"
 name                     : &name "李毅 Yi Li"
-description              : &description "李毅课题组@大理大学"
+description              : &description "李毅课题组 @大理大学"
 url                      : https://liyigerry.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "liyigerry/liyigerry.github.io"
