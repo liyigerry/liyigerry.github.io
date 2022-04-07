@@ -86,9 +86,9 @@ author:
   location         : 
   employer         : "Dali University"
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    :
   email            : "liyigerry@163.com"
-  researchgate     : "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :
   uri              : "https://liyigerry.github.io/"
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-0495-6512"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
