@@ -28,7 +28,7 @@ redirect_from:
 
 学术文章
 ======
-  *14. **Yi Li**, Yu-Chen Guo, Hong-Han Cheng, Xin Zeng, Xiao-Ling Zhang, Peng Sang, Ben-Hui Chen*, and Li-Quan Yang*. Deciphering gp120 sequence variation and structural dynamics in HIV neutralization phenotype by molecular dynamics simulations and graph machine learning. 2022. Proteins: Structure, Function, and Bioinformatics. [Url](https.//doi.org/10.1002/prot.26322) [PDF] [SI] [Src](https://github.com/liyigerry/gp120_md_gml) 
+14. **Yi Li**, Yu-Chen Guo, Hong-Han Cheng, Xin Zeng, Xiao-Ling Zhang, Peng Sang, Ben-Hui Chen*, and Li-Quan Yang*. Deciphering gp120 sequence variation and structural dynamics in HIV neutralization phenotype by molecular dynamics simulations and graph machine learning. 2022. Proteins: Structure, Function, and Bioinformatics. [Url](https.//doi.org/10.1002/prot.26322) [PDF] [SI] [Src](https://github.com/liyigerry/gp120_md_gml) 
 
   *13. 李毅, 李爽, 张晓玲, 曾新, 桑鹏, 杨力权*. 极端中和表型HIV包膜蛋白gp120的高温分子动力学模拟研究. 2022. 原子与分子物理学报. [PDF](./files/2022_原子物理.pdf)
 
